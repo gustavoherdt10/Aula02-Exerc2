@@ -6,7 +6,7 @@ $headers = apache_request_headers();
 <html lang="pt-br">
 <head>
 <meta charset="UTF-8">
-<title>Formulário PHP Modificado</title>
+<title>Formulário PHP Modificado para EX2</title>
 
 <style>
 
@@ -66,7 +66,7 @@ function alterarMetodo() {
 
 <div class="metodo">
 
-<b>Escolha o método de envio:</b><br>
+<b>Selecione o método de envio:</b><br>
 
 <input type="radio" name="metodo" value="POST" checked onclick="alterarMetodo()"> POST
 <input type="radio" name="metodo" value="GET" onclick="alterarMetodo()"> GET
