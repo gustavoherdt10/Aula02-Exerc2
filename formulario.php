@@ -6,7 +6,7 @@ $headers = apache_request_headers();
 <html lang="pt-br">
 <head>
 <meta charset="UTF-8">
-<title>Formulário PHP</title>
+<title>Formulário PHP Modificado</title>
 
 <style>
 
